@@ -1,0 +1,12 @@
+/Users/alexandrebuhler/Projects/Secao06/Secao06/bin/Debug/netcoreapp3.1/Secao06.deps.json
+/Users/alexandrebuhler/Projects/Secao06/Secao06/bin/Debug/netcoreapp3.1/Secao06.runtimeconfig.json
+/Users/alexandrebuhler/Projects/Secao06/Secao06/bin/Debug/netcoreapp3.1/Secao06.runtimeconfig.dev.json
+/Users/alexandrebuhler/Projects/Secao06/Secao06/bin/Debug/netcoreapp3.1/Secao06.dll
+/Users/alexandrebuhler/Projects/Secao06/Secao06/bin/Debug/netcoreapp3.1/Secao06.pdb
+/Users/alexandrebuhler/Projects/Secao06/Secao06/obj/Debug/netcoreapp3.1/Secao06.csprojAssemblyReference.cache
+/Users/alexandrebuhler/Projects/Secao06/Secao06/obj/Debug/netcoreapp3.1/Secao06.csproj.CoreCompileInputs.cache
+/Users/alexandrebuhler/Projects/Secao06/Secao06/obj/Debug/netcoreapp3.1/Secao06.AssemblyInfoInputs.cache
+/Users/alexandrebuhler/Projects/Secao06/Secao06/obj/Debug/netcoreapp3.1/Secao06.AssemblyInfo.cs
+/Users/alexandrebuhler/Projects/Secao06/Secao06/obj/Debug/netcoreapp3.1/Secao06.dll
+/Users/alexandrebuhler/Projects/Secao06/Secao06/obj/Debug/netcoreapp3.1/Secao06.pdb
+/Users/alexandrebuhler/Projects/Secao06/Secao06/obj/Debug/netcoreapp3.1/Secao06.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.deps.json
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.runtimeconfig.json
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.runtimeconfig.dev.json
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.dll
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.pdb
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.csprojAssemblyReference.cache
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.AssemblyInfoInputs.cache
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.AssemblyInfo.cs
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.dll
+/Users/alexandrebuhler/Projects/ws-vs2019/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.pdb

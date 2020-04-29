@@ -1,0 +1,12 @@
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.deps.json
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.runtimeconfig.json
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.runtimeconfig.dev.json
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.dll
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.pdb
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.csprojAssemblyReference.cache
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.AssemblyInfoInputs.cache
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.AssemblyInfo.cs
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.dll
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.pdb
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.csproj.CoreCompileInputs.cache
+/Users/alexandrebuhler/Projects/Exercicio/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.genruntimeconfig.cache

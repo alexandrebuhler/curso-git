@@ -1,0 +1,12 @@
+/Users/alexandrebuhler/Projects/Course/Course/bin/Debug/netcoreapp3.1/Course.deps.json
+/Users/alexandrebuhler/Projects/Course/Course/bin/Debug/netcoreapp3.1/Course.runtimeconfig.json
+/Users/alexandrebuhler/Projects/Course/Course/bin/Debug/netcoreapp3.1/Course.runtimeconfig.dev.json
+/Users/alexandrebuhler/Projects/Course/Course/bin/Debug/netcoreapp3.1/Course.dll
+/Users/alexandrebuhler/Projects/Course/Course/bin/Debug/netcoreapp3.1/Course.pdb
+/Users/alexandrebuhler/Projects/Course/Course/obj/Debug/netcoreapp3.1/Course.csprojAssemblyReference.cache
+/Users/alexandrebuhler/Projects/Course/Course/obj/Debug/netcoreapp3.1/Course.AssemblyInfoInputs.cache
+/Users/alexandrebuhler/Projects/Course/Course/obj/Debug/netcoreapp3.1/Course.AssemblyInfo.cs
+/Users/alexandrebuhler/Projects/Course/Course/obj/Debug/netcoreapp3.1/Course.dll
+/Users/alexandrebuhler/Projects/Course/Course/obj/Debug/netcoreapp3.1/Course.pdb
+/Users/alexandrebuhler/Projects/Course/Course/obj/Debug/netcoreapp3.1/Course.csproj.CoreCompileInputs.cache
+/Users/alexandrebuhler/Projects/Course/Course/obj/Debug/netcoreapp3.1/Course.genruntimeconfig.cache

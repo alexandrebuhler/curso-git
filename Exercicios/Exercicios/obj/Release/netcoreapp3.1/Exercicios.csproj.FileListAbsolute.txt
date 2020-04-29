@@ -1,0 +1,11 @@
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/bin/Release/netcoreapp3.1/Exercicios.deps.json
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/bin/Release/netcoreapp3.1/Exercicios.runtimeconfig.json
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/bin/Release/netcoreapp3.1/Exercicios.runtimeconfig.dev.json
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/bin/Release/netcoreapp3.1/Exercicios.dll
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/bin/Release/netcoreapp3.1/Exercicios.pdb
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/obj/Release/netcoreapp3.1/Exercicios.csproj.CoreCompileInputs.cache
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/obj/Release/netcoreapp3.1/Exercicios.AssemblyInfoInputs.cache
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/obj/Release/netcoreapp3.1/Exercicios.AssemblyInfo.cs
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/obj/Release/netcoreapp3.1/Exercicios.dll
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/obj/Release/netcoreapp3.1/Exercicios.pdb
+/Users/alexandrebuhler/Projects/Exercicios/Exercicios/obj/Release/netcoreapp3.1/Exercicios.genruntimeconfig.cache
